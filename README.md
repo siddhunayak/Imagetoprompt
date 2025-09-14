@@ -69,7 +69,7 @@ Assembled Prompt
 Clone this repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/image-to-prompt.git
+git clone https://github.com/Siddhunayak/imagetoprompt.git
 cd image-to-prompt
 
 # Create virtual environment (optional but recommended)
@@ -133,14 +133,5 @@ a renaissance portrait painting of a woman, by Leonardo da Vinci, highly detaile
 
 ---
 
-## 📝 License
 
-This project is for educational and research purposes.
-Check original CLIP Interrogator repo for full license details.
 
-```
-
----
-
-👉 Do you want me to also create a **`requirements.txt`** file alongside this `README.md` so you can directly install all dependencies in one go?
-```
