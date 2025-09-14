@@ -1,9 +1,4 @@
-Got it ✅
-Here’s a **ready-to-use GitHub `README.md` file** you can drop into your project folder. It explains the purpose, architecture, installation, and usage of your **Image-to-Prompt (CLIP Interrogator)** notebook.
 
----
-
-```markdown
 # 🖼️ Image-to-Prompt with CLIP Interrogator
 
 This project demonstrates how to **reverse engineer prompts from images** using the [CLIP Interrogator](https://github.com/pharmapsychotic/clip-interrogator).  
